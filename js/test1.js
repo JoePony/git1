@@ -1,1 +1,0 @@
-var message='this is test1';
